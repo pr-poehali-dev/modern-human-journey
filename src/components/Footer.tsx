@@ -12,7 +12,7 @@ export default function Footer({ onNavigate }: FooterProps) {
           <div>
             <p className="font-cormorant text-xl font-bold text-gold mb-3 leading-tight">Человек в современном изменяющемся мире</p>
             <p className="font-golos text-sm text-muted-foreground leading-relaxed">
-              Независимый журнал о культуре, технологиях и смыслах. Выходим нерегулярно — только когда есть что сказать.
+              Блог о человеке в эпоху перемен: как меняется общество, мышление, технологии и наше место в этом мире.
             </p>
           </div>
           <div>

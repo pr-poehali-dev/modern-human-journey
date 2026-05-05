@@ -38,7 +38,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
           </div>
           <div className="animate-fade-up-delay-2">
             <p className="font-golos text-base md:text-lg text-white/50 max-w-2xl mx-auto leading-relaxed mb-12">
-              Медленные тексты в быстром мире. О культуре, технологиях и людях, которые их создают.
+              О том, как меняется общество, технологии и ценности — и как найти себя в этом потоке перемен.
             </p>
           </div>
           <div className="animate-fade-up-delay-3 flex items-center justify-center gap-6">

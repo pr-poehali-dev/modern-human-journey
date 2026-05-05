@@ -3,7 +3,7 @@ import { articles } from '@/data/blogData';
 import ArticleCard from '@/components/ArticleCard';
 import Icon from '@/components/ui/icon';
 
-const categories = ['Все', 'Культура', 'Технологии', 'Путешествия', 'Искусство', 'Философия', 'Психология'];
+const categories = ['Все', 'Личность', 'Технологии', 'Общество', 'Труд', 'Психология', 'Философия', 'Образ жизни'];
 
 export default function ArticlesPage() {
   const [activeCategory, setActiveCategory] = useState('Все');
@@ -27,7 +27,7 @@ export default function ArticlesPage() {
             Статьи
           </h1>
           <p className="font-golos text-muted-foreground max-w-xl">
-            Тексты, которые требуют времени. Читайте тогда, когда мир может подождать.
+            Размышления о переменах, людях и смыслах. О том, как жить и оставаться собой в непростое время.
           </p>
         </div>
 
