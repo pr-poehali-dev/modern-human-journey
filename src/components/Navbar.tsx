@@ -35,9 +35,9 @@ export default function Navbar({ currentPage, onNavigate }: NavbarProps) {
       <div className="container mx-auto px-6 flex items-center justify-between">
         <button
           onClick={() => onNavigate('home')}
-          className="font-cormorant text-2xl font-bold tracking-widest text-gold uppercase"
+          className="font-cormorant text-lg font-bold text-gold leading-tight text-left max-w-[200px] md:max-w-xs"
         >
-          Meridian
+          Человек в современном изменяющемся мире
         </button>
 
         <nav className="hidden md:flex items-center gap-8">

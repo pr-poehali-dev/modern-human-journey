@@ -10,7 +10,7 @@ export default function Footer({ onNavigate }: FooterProps) {
       <div className="container mx-auto px-6 py-12">
         <div className="grid md:grid-cols-3 gap-10 mb-10">
           <div>
-            <p className="font-cormorant text-2xl font-bold tracking-widest text-gold uppercase mb-3">Meridian</p>
+            <p className="font-cormorant text-xl font-bold text-gold mb-3 leading-tight">Человек в современном изменяющемся мире</p>
             <p className="font-golos text-sm text-muted-foreground leading-relaxed">
               Независимый журнал о культуре, технологиях и смыслах. Выходим нерегулярно — только когда есть что сказать.
             </p>

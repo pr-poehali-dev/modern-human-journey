@@ -32,8 +32,8 @@ export default function HomePage({ onNavigate }: HomePageProps) {
             </p>
           </div>
           <div className="animate-fade-up-delay-1">
-            <h1 className="font-cormorant text-6xl md:text-8xl lg:text-[10rem] font-light leading-none tracking-tight text-white mb-6">
-              Meridian
+            <h1 className="font-cormorant text-4xl md:text-6xl lg:text-7xl font-light leading-tight tracking-tight text-white mb-6 max-w-4xl mx-auto">
+              Человек в современном изменяющемся мире
             </h1>
           </div>
           <div className="animate-fade-up-delay-2">
