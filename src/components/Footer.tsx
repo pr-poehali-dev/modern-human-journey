@@ -54,8 +54,8 @@ export default function Footer({ onNavigate }: FooterProps) {
           <p className="font-golos text-xs text-muted-foreground/50 tracking-wide">
             © 2026 Meridian
           </p>
-          <p className="font-cormorant text-xs italic text-muted-foreground/30">
-            Медленные тексты в быстром мире
+          <p className="font-golos text-xs text-muted-foreground/50 tracking-wide">
+            Таравитова Полина · 9 Б класс
           </p>
         </div>
       </div>
